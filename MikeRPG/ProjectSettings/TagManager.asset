@@ -1,0 +1,79 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags: []
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: b1-1
+    uniqueID: 1596990779
+    locked: 0
+  - name: b1-2
+    uniqueID: 2106498975
+    locked: 0
+  - name: b1-3
+    uniqueID: 2907237245
+    locked: 0
+  - name: F2-1
+    uniqueID: 923938099
+    locked: 0
+  - name: F2-2
+    uniqueID: 3010508457
+    locked: 0
+  - name: F2-3
+    uniqueID: 1044236841
+    locked: 0
+  - name: Earth
+    uniqueID: 1075148513
+    locked: 0
+  - name: Buildings
+    uniqueID: 1408966983
+    locked: 0
+  - name: Props
+    uniqueID: 241063185
+    locked: 0
+  - name: Props2
+    uniqueID: 3957565251
+    locked: 0
+  - name: Props3
+    uniqueID: 2704734253
+    locked: 0
+  - name: Props4
+    uniqueID: 228162205
+    locked: 0
